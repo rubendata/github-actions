@@ -20,7 +20,7 @@ on:
   schedule:
     - cron: '0 5 * * 1-5'
 
-j# Jobs defined in the workflow
+# Jobs defined in the workflow
 jobs:
   build:
     # The operating system for the runner
