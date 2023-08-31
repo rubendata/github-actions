@@ -1,5 +1,5 @@
 # Workflow name
-name: My First Workflow
+name: My Second Workflow
 
 # Triggers for the workflow
 on:
